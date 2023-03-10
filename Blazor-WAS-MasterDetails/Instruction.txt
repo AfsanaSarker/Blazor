@@ -1,0 +1,2 @@
+Auto Migration is enabled for startup.
+Run the project.
